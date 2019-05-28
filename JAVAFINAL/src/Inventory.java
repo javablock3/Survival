@@ -1,5 +1,5 @@
 public class Inventory {
-    public static int userWater, water, userFood, food, wood;
+    public static int userWater, water, userFood, food, wood, clothSraps;
 
     public void setFood(int f){
         food = food + f;
